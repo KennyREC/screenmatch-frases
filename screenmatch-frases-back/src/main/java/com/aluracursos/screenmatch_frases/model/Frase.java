@@ -14,6 +14,7 @@ public class Frase {
     private String personaje;
     private String poster;
 
+    //Ingreso se setter and getter
     public Long getId() {
         return id;
     }
